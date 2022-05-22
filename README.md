@@ -1228,8 +1228,19 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 ## Interview Process & General Interview Prep
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+- [ ] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
+- [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+=======
 - [x] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
 - [x] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+>>>>>>> 4081b8e (Mark as x, for test)
+=======
+- [x] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
+- [x] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
+>>>>>>> 4081b8e2f4a714806cf1927fc872618fd0e63016
 - [ ] How to Get a Job at the Big 4:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
     - [ ] [How to Get a Job at the Big 4.1 (Follow-up video)](https://www.youtube.com/watch?v=6790FVXWBw8&feature=youtu.be)
